@@ -1,0 +1,123 @@
+{
+  "configVersion": 1,
+  "timestamp": 1683232842250,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/515.ec2a59dc7477d1d8.js",
+        "/66.981b8fd2e6255a46.js",
+        "/815.04b6595292784b57.js",
+        "/826.9aeffbb7b6359b39.js",
+        "/83.0667516eab44a242.js",
+        "/983.17fbd2c37f5b482f.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.e277bce3a1f439ae.js",
+        "/manifest.webmanifest",
+        "/polyfills.938e9b9bb7eaf5d2.js",
+        "/runtime.fc32666eeaf96ee0.js",
+        "/scripts.1f82ca25569490eb.js",
+        "/styles.ecba9a3aa7455524.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/iconos/Recurso 1.svg",
+        "/assets/iconos/servicios.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/imagenes/alexa.png",
+        "/assets/imagenes/cortana.png",
+        "/assets/imagenes/doctor1.jpg",
+        "/assets/imagenes/doctor2.jpg",
+        "/assets/imagenes/doctor3.jpg",
+        "/assets/imagenes/doctor4.jpg",
+        "/assets/imagenes/google.png",
+        "/assets/imagenes/imagen1.jpeg",
+        "/assets/imagenes/imagen2.jpg",
+        "/assets/imagenes/imagen3.png",
+        "/assets/imagenes/imagen4.jpg",
+        "/assets/imagenes/siri.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/515.ec2a59dc7477d1d8.js": "bf48743815a8070816041e60115dbe9f14770e1c",
+    "/66.981b8fd2e6255a46.js": "135abc98fa0441c44a5f84435bb39c9028cccade",
+    "/815.04b6595292784b57.js": "22de3c71e6d794a395dedf6498518b0ad478f323",
+    "/826.9aeffbb7b6359b39.js": "583bf4350152934c0756e3fec7b7ba0826a1e842",
+    "/83.0667516eab44a242.js": "e1d30eb3a66baafa1e267668cddab65d6ffe48f2",
+    "/983.17fbd2c37f5b482f.js": "fe9259a130246a9cd41e1b9787877d16032d5847",
+    "/assets/iconos/Recurso 1.svg": "9592a9accdd0b70c6b67bcd51c651f97d4fbe5c5",
+    "/assets/iconos/servicios.svg": "cf3001cea7a047b1b3b3e2ebf8d00e07d1a9d90f",
+    "/assets/icons/icon-128x128.png": "06966f4ceb87718181309d19c3525b4d248d01df",
+    "/assets/icons/icon-144x144.png": "2c0247e9eefbe5055c7bf2057842c5ba0b16f416",
+    "/assets/icons/icon-152x152.png": "1378872bea91db1c3b0d00fe05c4ad649e89f32e",
+    "/assets/icons/icon-192x192.png": "79a86d807984ae32cf8d4ab54be194ae08e4f038",
+    "/assets/icons/icon-384x384.png": "e27a09c9c9012160c391c882f50caf08af22ae78",
+    "/assets/icons/icon-512x512.png": "139c7b5791fa1360b09b52143c80bbd39220efd6",
+    "/assets/icons/icon-72x72.png": "a7eef8eafdda26d6152d1ef1bba46fcbf24dc753",
+    "/assets/icons/icon-96x96.png": "c441ce19b4d94398b81b85c1e4b9dd9753962247",
+    "/assets/imagenes/alexa.png": "f0ef856dc08ddce6c58f434e446e0019b5da6558",
+    "/assets/imagenes/cortana.png": "d92906a737ac552c26bcf4ba596c8edcca801c2c",
+    "/assets/imagenes/doctor1.jpg": "ec3adba400a090dba7ebbfbf5f9009098e5b2224",
+    "/assets/imagenes/doctor2.jpg": "b0d8efa0a747eac52377d8f398e0e5b402b4ca96",
+    "/assets/imagenes/doctor3.jpg": "900d7ea4208ac72d8c350987a38f50d4cf1c737e",
+    "/assets/imagenes/doctor4.jpg": "08ab8c573d9a88e41c6a66584cc2d2f7fcd5c356",
+    "/assets/imagenes/google.png": "58a672a97d02287a9d6635bcfd79dce69ff3a0d1",
+    "/assets/imagenes/imagen1.jpeg": "613171b280820210dd53ab13aa7b9f3b071200f4",
+    "/assets/imagenes/imagen2.jpg": "610bca57d18ea3d15e4be91aa23fbf4c0975ebc7",
+    "/assets/imagenes/imagen3.png": "479c5d45fad1c2001c2bb9ab83706273b5c61a57",
+    "/assets/imagenes/imagen4.jpg": "24148020cf94c552746dc05b56886abf2f74bdb8",
+    "/assets/imagenes/siri.png": "886943a5cdad44f24fcb187ca716083c4948a282",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "8a5105dafd70913e817635352d141500d163aa60",
+    "/main.e277bce3a1f439ae.js": "6d09b3ae34a0571e0268186fb6712214b9bec4e4",
+    "/manifest.webmanifest": "ac4366e4533f278c541aad84caa67d924b27773f",
+    "/polyfills.938e9b9bb7eaf5d2.js": "02b70b77aa8d59f8a8620780aa81779fac6bf47a",
+    "/runtime.fc32666eeaf96ee0.js": "40c9648442f0453748b8571867ae9a2e5d14b2dc",
+    "/scripts.1f82ca25569490eb.js": "ad5c386028eb0664f5a332b4690225692a0445a8",
+    "/styles.ecba9a3aa7455524.css": "fa7e17579a14c55da286c8c6adadc16a3f9b2183"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
